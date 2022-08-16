@@ -19,7 +19,7 @@ public class UC4 {
 						empHrs = 0;
 				}	
 				empWage = empHrs * EMP_RATE_PER_HOUR; 
-				System.out.println("Employee wage:" + empWage);	
+				System.out.println("Employee wage" + empWage);	
 	}
 
 }
